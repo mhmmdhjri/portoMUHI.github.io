@@ -931,7 +931,7 @@ nav.nav a.active:hover::before {
 
     .home {
         flex-direction: column;
-        margin-top : 5rem;
+        margin-top : 3rem;
     }
 
     /* .home .home-content {
@@ -1216,7 +1216,7 @@ a.close-chat {
     animation-name: showhide;
     animation-duration: 1.5s;
     transform: scale(1);
-    opacity: 1
+    opacity: 1;
 }
 
 
